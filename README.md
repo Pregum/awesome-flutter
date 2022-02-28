@@ -46,7 +46,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Plugins](#plugins)
 - [Frameworks](#frameworks)
 - [Experimental](#experimental)
-- [Gaming](#gaming)
+- [Game](#game)
 - [Open Source Apps](#open-source-apps)
 - [Web](#web)
 - [Utilities](#utilities)
